@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downtown-ish",
+        "score": 82
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.515,
+              53.555
+            ],
+            [
+              -113.485,
+              53.555
+            ],
+            [
+              -113.485,
+              53.535
+            ],
+            [
+              -113.515,
+              53.535
+            ],
+            [
+              -113.515,
+              53.555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River Valley-ish",
+        "score": 35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.54,
+              53.54
+            ],
+            [
+              -113.5,
+              53.54
+            ],
+            [
+              -113.5,
+              53.52
+            ],
+            [
+              -113.54,
+              53.52
+            ],
+            [
+              -113.54,
+              53.54
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

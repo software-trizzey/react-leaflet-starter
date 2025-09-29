@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet needs its own CSS */
+@import "leaflet/dist/leaflet.css";
+
+/* Simple map container utility */
+.map-card {
+  @apply rounded-2xl border shadow-sm overflow-hidden;
+}
